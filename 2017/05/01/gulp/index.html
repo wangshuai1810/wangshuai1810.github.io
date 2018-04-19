@@ -598,7 +598,7 @@
 <li><code>*.*</code> 能匹配 a.js 、 style.css 、 a.b 、 x.y</li>
 <li><code>*/*/*.js</code> 能匹配 a/b/c.js 、 x/y/z.js ，不能匹配 a/b.js 、a/b/c/d.js</li>
 <li>** 能匹配 abc 、 a/b.js 、 a/b/c.js 、 x/y/z 、x/y/z/a.b ，能用来匹配所有的目录和文件</li>
-<li>*<em>/</em>.js 能匹配 foo.js 、 a/foo.js 、 a/b/foo.js 、 a/b/c/foo.js</li>
+<li><em>*/</em>.js 能匹配 foo.js 、 a/foo.js 、 a/b/foo.js 、 a/b/c/foo.js</li>
 <li>a/**/z 能匹配 a/z 、 a/b/z 、 a/b/c/z 、 a/d/g/h/r/z</li>
 <li><code>a/**b/z</code> 能匹配 a/b/z 、 a/fb/z ，但不能匹配 a/x/gb/z ，因为只有单 ** 单独出现才能匹配多级目录</li>
 <li>?.js 能匹配 a.js 、 b.js 、 c.js</li>
