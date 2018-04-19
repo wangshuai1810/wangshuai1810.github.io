@@ -11,6 +11,7 @@
     
     
     
+    
   <url>
     <loc>https://wangshuai1810.github.io/2017/02/14/why-we-dropped-zepto/</loc>
     <lastmod>2018-04-19T05:16:58.417Z</lastmod>
@@ -156,26 +157,6 @@
 
     
   <url>
-    <loc>https://wangshuai1810.github.io/2017/02/28/memory-leak/</loc>
-    <lastmod>2018-04-19T05:16:58.393Z</lastmod>
-    <data>
-        <display>
-        <title>如何解决内存泄漏引发的血案</title>
-        <pubTime>2017-02-27T17:01:00.000Z</pubTime>
-        
-        <tag>JavaScript</tag>
-         
-         
-           
-             
-              <breadCrumb title="综合" url="https://wangshuai1810.github.io/categories/%E7%BB%BC%E5%90%88/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://wangshuai1810.github.io/2018/04/12/nba-story-1/</loc>
     <lastmod>2018-04-19T05:16:58.393Z</lastmod>
     <data>
@@ -229,6 +210,26 @@
            
              
               <breadCrumb title="前端" url="https://wangshuai1810.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://wangshuai1810.github.io/2017/02/28/memory-leak/</loc>
+    <lastmod>2018-04-19T05:16:58.393Z</lastmod>
+    <data>
+        <display>
+        <title>如何解决内存泄漏引发的血案</title>
+        <pubTime>2017-02-27T17:01:00.000Z</pubTime>
+        
+        <tag>JavaScript</tag>
+         
+         
+           
+             
+              <breadCrumb title="综合" url="https://wangshuai1810.github.io/categories/%E7%BB%BC%E5%90%88/"/>
           
         </display>
     </data>
